@@ -302,7 +302,7 @@ export default function App() {
 
       <div className="testmonails-part my-5" id="testimonials">
         <div className="testimonials-inner-part d-flex flex-column">
-          <span className="about-me-text">Refrences</span>
+          <span className="about-me-text">Testimonials</span>
           <span className="why-text-sub mb-5">
             What do others think about me?{" "}
           </span>

@@ -12,8 +12,8 @@ export default function Testimonials() {
       text: "I have worked with Tamara for the past 4 years in a skilled nursing rehabilitation therapy department.  Tamara has excellent communication skills along with being a team player. She is extremely organized, reliable, and is flexible enough to work on any project that is assigned to her. In addition, she is able to work independently and is able to follow through to ensure the job gets done. Tamara would be a tremendous asset for your company and has my highest recommendation.",
     },
     {
-      name: "",
-      text: "",
+      name: "Billie Heidelberg - SEI Lead",
+      text: "Tamara was a pleasure to have in class. She continuously showed growth during hard times and pushed through all adversity. I appreciate her dedication to her craft and think she will make an asset to any team.",
     },
   ];
   return (
