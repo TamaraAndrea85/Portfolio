@@ -18,7 +18,7 @@ export default function App() {
     const typed = new Typed(el.current, {
       strings: [
         "Enthusiastic Full-Stack Software Engineer ",
-        " Dedicated over 500 housrs of study in Software Engineering Immersive Online program (Flex) ",
+        " Dedicated over 500 hours of study in Software Engineering Immersive Online program (Flex) ",
         " Prioritizes user experience",
         "Developed four projects including one group project",
       ],
