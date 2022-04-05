@@ -145,7 +145,7 @@ export default function App() {
 
                   "
                   className="btn-resume-me"
-                  target="_blank"
+                  target=""
                 >
                   Get Resume
                 </a>
