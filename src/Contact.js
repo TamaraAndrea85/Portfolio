@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
 import emailjs from "emailjs-com";
-import { init } from "@emailjs/browser";
+import { init } from "emailjs/browser";
 
 import "./contact.css";
 init("wcnCiEjf9yoZnUt0e");
