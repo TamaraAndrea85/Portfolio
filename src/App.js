@@ -137,7 +137,7 @@ export default function App() {
                   Hire me
                 </a>
                 <a
-                  href="https://docs.google.com/document/d/e/2PACX-1vSKcDz2KCsv9y3Wu-nWPdju8uUGW9cNki-miybv8lmSXChfW_GV-GWNXmXSi-Drf8PQGpzqM7g9vHBp/pub"
+                  href="https://docs.google.com/document/d/1JZ-4GNpS1CjM_Z2W5IurUg6o8uIqs6tlw-PUca4oS0s/edit"
                   className="btn-resume-me"
                   target=""
                 >
