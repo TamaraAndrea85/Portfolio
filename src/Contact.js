@@ -3,7 +3,7 @@ import emailjs from "emailjs-com";
 import { init } from "@emailjs/browser";
 
 import "./contact.css";
-init("wcnCiEjf9yoZnUt0e");
+emailjs.init("wcnCiEjf9yoZnUt0e");
 export default function Contact() {
   const [name, setname] = useState("");
 
@@ -20,7 +20,7 @@ export default function Contact() {
       to_name: "tamaraandreawilburn@gmail.com",
       feedback: message,
     };
-    emailjs.send("service_re8d3j5", "template_7qrzf2e", templateparams).then(
+    emailjs.send("service_e0zkrad", "template_7qrzf2e", templateparams).then(
       function (response) {
         console.log("SUCCESS!", response.status, response.text);
       },

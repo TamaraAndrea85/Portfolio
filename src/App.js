@@ -221,17 +221,17 @@ export default function App() {
         >
           <div className="col-lg-4 col-md-4 col-sm-12 resume-left-section d-flex  px-0 shadow-lg flex-row">
             <div className="d-flex flex-column bg-new text-white">
-              <span class="icons-span">
-                <i class="fas fa-user-graduate"></i>{" "}
+              <span className="icons-span">
+                <i className="fas fa-user-graduate"></i>{" "}
               </span>
-              <span class="icons-span">
-                <i class="fas fa-briefcase"></i>{" "}
+              <span className="icons-span">
+                <i className="fas fa-briefcase"></i>{" "}
               </span>
-              <span class="icons-span">
-                <i class="fas fa-code"></i>{" "}
+              <span className="icons-span">
+                <i className="fas fa-code"></i>{" "}
               </span>
-              <span class="icons-span">
-                <i class="fas fa-tasks"></i>{" "}
+              <span className="icons-span">
+                <i className="fas fa-tasks"></i>{" "}
               </span>
             </div>
             <div className="d-flex flex-column">
