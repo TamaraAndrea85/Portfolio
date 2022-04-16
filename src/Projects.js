@@ -7,7 +7,13 @@ export default function Projects() {
         <div className="education-one my-4 justify-content-between d-flex flex-row">
           <div className="d-flex flex-column new-one">
             <span className="university-name">SpaceMan </span>
-            <span className="university-degree">HTML, CSS, JAVASCRIPT </span>
+            <span className="university-degree">
+              Built with: HTML, CSS, and JavaScript
+            </span>
+            <span className="university-degree">
+              Developed a word game, inspired by the globally recognized
+              Hangman.
+            </span>
           </div>{" "}
           <div>
             <a
@@ -21,7 +27,12 @@ export default function Projects() {
         <div className="education-one my-4 justify-content-between d-flex flex-row">
           <div className="d-flex flex-column new-one">
             <span className="university-name">SNEAKER COLLECTION</span>
-            <span className="university-degree">full CRUD API </span>
+            <span className="university-degree">
+              Built with: Express, Express EJS Layouts, Mongoose, Full CRUD API{" "}
+            </span>
+            <span className="university-degree">
+              An Inventory app that keep record of a sneaker collection{" "}
+            </span>
           </div>{" "}
           <div>
             <a
@@ -34,8 +45,21 @@ export default function Projects() {
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
           <div className="d-flex flex-column new-one">
-            <span className="university-name">SOCIAL MEAL-DIA </span>
-            <span className="university-degree">GROUP PROJECT</span>
+            <span className="university-name">
+              SOCIAL MEAL-DIA (GROUP PROJECT){" "}
+            </span>
+            <span className="university-degree">
+              {" "}
+              Built with: MongoDB Express.js React.js Node.js Javascript HTML5{" "}
+            </span>
+            <span className="university-degree">
+              {" "}
+              SCSS Passport.js Cloudinary{" "}
+            </span>
+            <span className="university-degree">
+              {" "}
+              A social media app, Instagram for food{" "}
+            </span>
           </div>{" "}
           <div>
             <a
