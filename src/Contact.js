@@ -33,7 +33,7 @@ export default function Contact() {
   return (
     <>
       <div>
-        <div className="contact-me-card row">
+        <div className="contact-me-card mx-auto row">
           <div className="col-lg-6 col-md-5 col-sm-12 left-contact px-2 py-2">
             <span className="get-in-touch mx-4 my-5">Get in touch </span>
 
