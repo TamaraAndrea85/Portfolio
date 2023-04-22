@@ -8,11 +8,13 @@ export default function Projects() {
           <div className="d-flex flex-column new-one">
             <span className="university-name">SpaceMan </span>
             <span className="university-degree">
-              Built with: HTML, CSS, and JavaScript
+              Built with: Using JavaScript for DOM manipulation. HTML and CSS
+              are utilized for styling.
             </span>
             <span className="university-degree">
-              Developed a word game, inspired by the globally recognized
-              Hangman.
+              Developed a word game in which one player tries to guess the
+              letters of a word. unsuccessful attempts are recorded by
+              decreasing the number of attempts.
             </span>
           </div>{" "}
           <div>
@@ -26,17 +28,22 @@ export default function Projects() {
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
           <div className="d-flex flex-column new-one">
-            <span className="university-name">SNEAKER COLLECTION</span>
+            <span className="university-name">MY-BLOG</span>
             <span className="university-degree">
-              Built with: Express, Express EJS Layouts, Mongoose, Full CRUD API{" "}
+              Built with: Created Front-End with React., React Redux to allow
+              React components to read data from a Redux Store and dispatch
+              Actions to the Store to update data. Back-end programming using
+              Node, Express, and Mongoose.{" "}
             </span>
             <span className="university-degree">
-              An Inventory app that keep record of a sneaker collection{" "}
+              Developed a fully responsive MERN stack social media app for
+              posting and sharing ideas, experiences, and reviews concerning
+              natural/curly hair and hair products.{" "}
             </span>
           </div>{" "}
           <div>
             <a
-              href="https://obscure-brook-48241.herokuapp.com/sneaker"
+              href="https://project4-myblog.herokuapp.com/"
               style={{ textDecoration: "none" }}
             >
               <span className="year-passedout">LINK TO PROJECT</span>
@@ -50,7 +57,10 @@ export default function Projects() {
             </span>
             <span className="university-degree">
               {" "}
-              Built with: MongoDB Express.js React.js Node.js Javascript HTML5{" "}
+              Built with: Front-End created with React, communicates with the
+              back-end API RESTfully to Create, Read, Update, and Destroy
+              resources with Axios. Provided design and back-end programming
+              support using Node, Express, and Mongoose.{" "}
             </span>
             <span className="university-degree">
               {" "}
