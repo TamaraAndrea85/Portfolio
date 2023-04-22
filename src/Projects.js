@@ -8,8 +8,8 @@ export default function Projects() {
           <div className="d-flex flex-column new-one">
             <span className="university-name">SpaceMan </span>
             <span className="university-degree">
-              Built with: Using JavaScript for DOM manipulation. HTML and CSS
-              are utilized for styling.
+              Using JavaScript for DOM manipulation. HTML and CSS are utilized
+              for styling.
             </span>
             <span className="university-degree">
               Developed a word game in which one player tries to guess the
@@ -30,10 +30,10 @@ export default function Projects() {
           <div className="d-flex flex-column new-one">
             <span className="university-name">MY-BLOG</span>
             <span className="university-degree">
-              Built with: Created Front-End with React., React Redux to allow
-              React components to read data from a Redux Store and dispatch
-              Actions to the Store to update data. Back-end programming using
-              Node, Express, and Mongoose.{" "}
+              Created Front-End with React., React Redux to allow React
+              components to read data from a Redux Store and dispatch Actions to
+              the Store to update data. Back-end programming using Node,
+              Express, and Mongoose.{" "}
             </span>
             <span className="university-degree">
               Developed a fully responsive MERN stack social media app for
@@ -57,15 +57,13 @@ export default function Projects() {
             </span>
             <span className="university-degree">
               {" "}
-              Built with: Front-End created with React, communicates with the
-              back-end API RESTfully to Create, Read, Update, and Destroy
-              resources with Axios. Provided design and back-end programming
-              support using Node, Express, and Mongoose.{" "}
+              Collaborative team project, responsive MERN stack social media app
+              for posting pictures of food. Front-End created with React,
+              communicates with the back-end API RESTfully to Create, Read,
+              Update, and Destroy resources with Axios. Provided design and
+              back-end programming support using Node, Express, and Mongoose.{" "}
             </span>
-            <span className="university-degree">
-              {" "}
-              SCSS Passport.js Cloudinary{" "}
-            </span>
+            <span className="university-degree"> </span>
             <span className="university-degree">
               {" "}
               A social media app, Instagram for food{" "}
