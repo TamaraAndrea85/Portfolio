@@ -151,7 +151,7 @@ export default function App() {
               <img
                 className="img-fluid custom-img"
                 alt="heroimage"
-                src="https://res.cloudinary.com/dsruc2myl/image/upload/v1646016535/personal/nnaknrzzy1wpgbo3jypj.jpg"
+                src="https://res.cloudinary.com/dsruc2myl/image/upload/v1702689219/gjgrkyqnqztdxaokvg7w.jpg"
               />
             </div>
           </div>
